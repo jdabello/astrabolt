@@ -1,6 +1,6 @@
 # Astrabolt Demo
 
-This is a demo of fictitius e-commerce site based on [BestBuy's Open Data Set](https://github.com/BestBuyAPIs/open-data-set) product catalog. It showcases how **Astra DB's vector search** capabilities can be utilized to power Generative AI experiences for an e-commerce use case.
+This is a demo of fictitious e-commerce site based on [BestBuy's Open Data Set](https://github.com/BestBuyAPIs/open-data-set) product catalog. It showcases how **Astra DB's vector search** capabilities can be utilized to power Generative AI experiences for an e-commerce use case.
 
 It uses the latest`@datastax/astra-db-ts` SDK, and it integrates transparently with `langchain` and Google's `multimodalmultimodalembedding@001` (Gemini) to power semantic search via voice, text, or images.
 
