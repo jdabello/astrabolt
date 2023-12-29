@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Loading...",
+      "image": "/images/loading.jpg",
+      "description": "Loading...",
+      "price": 0
+    },
+    {
+      "id": 2,
+      "name": "Loading...",
+      "image": "/images/loading.jpg",
+      "description": "Loading...",
+      "price": 0
+    },
+    {
+      "id": 3,
+      "name": "Loading...",
+      "image": "/images/loading.jpg",
+      "description": "Loading...",
+      "price": 0
+    },{
+      "id": 4,
+      "name": "Loading...",
+      "image": "/images/loading.jpg",
+      "description": "Loading...",
+      "price": 0
+    },
+    {
+      "id": 5,
+      "name": "Loading...",
+      "image": "/images/loading.jpg",
+      "description": "Loading...",
+      "price": 0
+    },
+    {
+      "id": 6,
+      "name": "Loading...",
+      "image": "/images/loading.jpg",
+      "description": "Loading...",
+      "price": 0
+    },
+    {
+      "id": 7,
+      "name": "Loading...",
+      "image": "/images/loading.jpg",
+      "description": "Loading...",
+      "price": 0
+    },
+    {
+      "id": 8
+    }
+  ]

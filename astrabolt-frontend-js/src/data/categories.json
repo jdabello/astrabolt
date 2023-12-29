@@ -1,0 +1,250 @@
+[
+  {
+    "id": "cat08201",
+    "name": "AV Surge Protection"
+  },
+  {
+    "id": "pcmcat96200050046",
+    "name": "Accessories"
+  },
+  {
+    "id": "pcmcat240400050039",
+    "name": "Aluminum Tripods"
+  },
+  {
+    "id": "abcat0107028",
+    "name": "Analog Audio Cables"
+  },
+  {
+    "id": "abcat0900000",
+    "name": "Appliances"
+  },
+  {
+    "id": "abcat0200000",
+    "name": "Audio"
+  },
+  {
+    "id": "cat09000",
+    "name": "Best Buy Gift Cards"
+  },
+  {
+    "id": "pcmcat194000050041",
+    "name": "Beverage & Wine Coolers"
+  },
+  {
+    "id": "abcat0712003",
+    "name": "Board & Puzzle"
+  },
+  {
+    "id": "pcmcat748300321191",
+    "name": "Bunk Beds & Mattresses"
+  },
+  {
+    "id": "cat08110",
+    "name": "Camcorder & Camera Batteries"
+  },
+  {
+    "id": "abcat0400000",
+    "name": "Cameras & Camcorders"
+  },
+  {
+    "id": "abcat0300000",
+    "name": "Car Electronics & GPS"
+  },
+  {
+    "id": "pcmcat113100050015",
+    "name": "Carfi Instore Only"
+  },
+  {
+    "id": "abcat0712004",
+    "name": "Casino"
+  },
+  {
+    "id": "abcat0800000",
+    "name": "Cell Phones"
+  },
+  {
+    "id": "abcat0500000",
+    "name": "Computers & Tablets"
+  },
+  {
+    "id": "pcmcat312300050015",
+    "name": "Connected Home & Housewares"
+  },
+  {
+    "id": "abcat0307009",
+    "name": "Custom Parts"
+  },
+  {
+    "id": "pcmcat67800050026",
+    "name": "Double Electric Wall Ovens"
+  },
+  {
+    "id": "cat02083",
+    "name": "Education"
+  },
+  {
+    "id": "pcmcat254200050004",
+    "name": "Electric Bike & Scooter Accessories"
+  },
+  {
+    "id": "pcmcat135900050041",
+    "name": "Exclusives"
+  },
+  {
+    "id": "pcmcat235600050020",
+    "name": "Flight"
+  },
+  {
+    "id": "cat05014",
+    "name": "Freestanding Gas Ranges"
+  },
+  {
+    "id": "pcmcat96200050043",
+    "name": "Furniture"
+  },
+  {
+    "id": "pcmcat193100050013",
+    "name": "Gadgets"
+  },
+  {
+    "id": "pcmcat138100050018",
+    "name": "Geek Squad"
+  },
+  {
+    "id": "pcmcat361800050003",
+    "name": "Geek Squad Services"
+  },
+  {
+    "id": "abcat0010000",
+    "name": "Gift Ideas"
+  },
+  {
+    "id": "abcat0208026",
+    "name": "Guitar Accessories"
+  },
+  {
+    "id": "pcmcat303400050014",
+    "name": "H/VG_X360/Games/B2G1_20130602"
+  },
+  {
+    "id": "pcmcat152100050036",
+    "name": "Headphones"
+  },
+  {
+    "id": "pcmcat242800050021",
+    "name": "Health, Fitness & Beauty"
+  },
+  {
+    "id": "pcmcat248700050021",
+    "name": "Home"
+  },
+  {
+    "id": "pcmcat298100050010",
+    "name": "In-Store Only"
+  },
+  {
+    "id": "cat07027",
+    "name": "Ink"
+  },
+  {
+    "id": "pcmcat7800050014",
+    "name": "Ink for Hewlett-Packard"
+  },
+  {
+    "id": "cat03112",
+    "name": "Karaoke Software"
+  },
+  {
+    "id": "pcmcat278500050003",
+    "name": "MP Exclusives"
+  },
+  {
+    "id": "pcmcat287900050005",
+    "name": "MP Pending"
+  },
+  {
+    "id": "pcmcat139900050002",
+    "name": "Magnolia Home Theater"
+  },
+  {
+    "id": "abcat0600000",
+    "name": "Movies & Music"
+  },
+  {
+    "id": "abcat0207000",
+    "name": "Musical Instruments"
+  },
+  {
+    "id": "pcmcat128500050004",
+    "name": "Name Brands"
+  },
+  {
+    "id": "cat00001",
+    "name": "Other Product Categories"
+  },
+  {
+    "id": "pcmcat152400050000",
+    "name": "Outlet Store"
+  },
+  {
+    "id": "pcmcat240400050018",
+    "name": "P&S Camera Chargers"
+  },
+  {
+    "id": "pcmcat299300050013",
+    "name": "Poker Tables"
+  },
+  {
+    "id": "cat08065",
+    "name": "Remote Controls"
+  },
+  {
+    "id": "pcmcat100400050019",
+    "name": "Salamander Designs"
+  },
+  {
+    "id": "pcmcat67800050027",
+    "name": "Single Electric Wall Ovens"
+  },
+  {
+    "id": "abcat0712007",
+    "name": "Sports"
+  },
+  {
+    "id": "abcat0100000",
+    "name": "TV & Home Theater"
+  },
+  {
+    "id": "pcmcat252700050006",
+    "name": "Toys, Games & Drones"
+  },
+  {
+    "id": "abcat0700000",
+    "name": "Video Games"
+  },
+  {
+    "id": "abcat0107025",
+    "name": "Video Switchers"
+  },
+  {
+    "id": "pcmcat352500050020",
+    "name": "Voice Recognition Software"
+  },
+  {
+    "id": "pcmcat332000050000",
+    "name": "Wearable Technology"
+  },
+  {
+    "id": "pcmcat247400050002",
+    "name": "Wine Chillers"
+  },
+  {
+    "id": "pcmcat303300050009",
+    "name": "Wireless Systems & Cameras"
+  },
+  {
+    "id": "pcmcat304300050009",
+    "name": "XBox_Buy2Get1_20130616"
+  }
+]
