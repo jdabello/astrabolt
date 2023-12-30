@@ -30,7 +30,7 @@ const embeddings = new GoogleVertexAIMultimodalEmbeddings();
 
 export async function getSearchProductsByText(query: string, filter: Record<string, any>, limit: number) {
     const vectorQuery: number[] = await embeddings.embedQuery(query);
-    const results = await descriptionsVectorStore.similaritySearch(
+    const results = await imagesVectorStore.similaritySearch(
         query,
         limit,
         filter
@@ -71,7 +71,7 @@ export async function getFeaturedProducts(pastSearches: string[]) {
     var document_list = [];
     var ids: any[] = [];
     for (var index in pastSearches) {
-        const results = await descriptionsVectorStore.similaritySearchWithScore(pastSearches[index], 10);
+        const results = await imagesVectorStore.similaritySearchWithScore(pastSearches[index], 10);
         all_results = all_results.concat(results);
     }
     all_results.sort((a, b) => b[1] - a[1]);
